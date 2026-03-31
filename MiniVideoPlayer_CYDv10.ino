@@ -504,7 +504,7 @@ void typewriterFX() {
 //gfx->setFont(&FreeSans9pt7b);
   gfx->setTextSize(1);
   gfx->setCursor(60, 60);
-  String message = "Welcome to Liam's";
+  String message = "Welcome to the";
 
   for (int i = 0; i < message.length(); i++) {
     gfx->print(message[i]);
