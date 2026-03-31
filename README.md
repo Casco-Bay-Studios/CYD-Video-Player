@@ -312,7 +312,8 @@ Open Serial Monitor at **115200 baud** to see:
 ## Note on Audio
  - You can plug a speaker directly into the JST connection labeled SPEAK, but it is loud and kind of distorted.
  - I made a simple circuit to control volume, and also added an external audio jack, which cuts off the speaker audio when headphones are plugged in.
- - 
+
+<img src="/VolumeCOntrolCYD.jpg" alt="Project screenshot" width="500">
 
 
 
